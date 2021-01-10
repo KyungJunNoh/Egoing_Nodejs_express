@@ -1,0 +1,42 @@
+# 이수업의 최종목표
+ - 웹 애플리케이션 만들기
+# 강의에서 배울 수 있는 것
+ - JavaScript, Node.js runtime
+
+Node.js는 웹서버를 내장하고있다.
+
+cmd 창에서 node 파일이름 을 하고 실행중일때에는 웹페이지에서 접속이 가능하지만 컨트롤+c로 실행취소했을때에는 접속이 되지않음.
+
+프로그래밍적으로 사용자에게 전송할 데이터를 전송하는것이 node js이다.
+
+# JavaScript
+자료형 종류 Number String Boolean Array Object ....
+
+syntax에는 자료형종류를 모아둘 것임
+
+## Variable(변수)
+- 변수를 생성할때에는 var을 붙여서 만드는 습관을 들여라 
+  
+  ex) var a = 1;
+
+## URL
+ex) http://opentutorials.org:3000/main?id=HTML&page=12
+  
+  ->http == protocol [통신규칙]
+ 
+  ->opentutorials.org == host(domain) [주소]
+ 
+  ->main == path [컴퓨터에있는 어떤파일인지 나타냄]
+
+  ->3000 == port [3000번포트에 접속된 주소에있는 웹서버 번호]
+ 
+  ->id=HTML&page=12 == query string [데이터 전달가능]
+
+## CRUD
+  ->Create
+
+  ->Read
+
+  ->Update
+
+  ->Delete
