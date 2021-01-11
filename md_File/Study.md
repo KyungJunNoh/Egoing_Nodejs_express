@@ -51,3 +51,17 @@ ex) http://opentutorials.org:3000/main?id=HTML&page=12
 ## writeHead
   - wirtehead는 웹서버와 웹브라우저에서 확인을 위한 수단 (연결이 성공되었을땐 200, 실패했을땐 404)
   - https://sukth09.tistory.com/42 (참고)
+
+
+## synchronous & asynchronous (동기 와 비동기)
+  - sychronous (동기) -> 일을 동시에 하지않고 하나의 일만 하는것
+  - asynchronous (비동기) -> 일을 동시에 하는 것 (효율적이지만 매우 복잡 -> node js의 특징)
+
+## Package Manager
+  - 소프트웨어를 부르는 것들 중 하나
+  - 어떤 프로그램을 실행하는데에있어 필요한 부품들도 패키지 라고함
+  - NPM : nodejs에서 가장 광범위하게 사용되는 패키지 매니저 (https://pm2.keymetrics.io/)
+
+
+## form 태그 method 적을때 post
+  - form태그로 서버에 데이터를 전송할때 그냥 보내면 보안상 위협이 있다. 그러므로 method를 post로 설정해야한다. (그렇다면 쿼리 스트링값이 가려져서 전송됨)
