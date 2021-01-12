@@ -65,3 +65,15 @@ ex) http://opentutorials.org:3000/main?id=HTML&page=12
 
 ## form 태그 method 적을때 post
   - form태그로 서버에 데이터를 전송할때 그냥 보내면 보안상 위협이 있다. 그러므로 method를 post로 설정해야한다. (그렇다면 쿼리 스트링값이 가려져서 전송됨)
+
+## Object(객체) vs Array(배열)
+  - 객체 : 순서가 없는 수납공간
+  - 배열 : 순서가 있는 수납공간
+
+## refactoring
+  - refactoring 이란 구동방식은 같지만 코드를 효율적으로 다시 바꾸는 것
+
+## Module (모듈)
+  - 배열 객체 함수 같은 정리정돈 도구 중 가장 큰 도구
+
+##
