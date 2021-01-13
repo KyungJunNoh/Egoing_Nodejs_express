@@ -75,5 +75,3 @@ ex) http://opentutorials.org:3000/main?id=HTML&page=12
 
 ## Module (모듈)
   - 배열 객체 함수 같은 정리정돈 도구 중 가장 큰 도구
-
-##

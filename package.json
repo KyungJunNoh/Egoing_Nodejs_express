@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/KyungJunNoh/Egoing_Nodejs#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
     "sanitize-html": "^2.3.0"
   }
 }
